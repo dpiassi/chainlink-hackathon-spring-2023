@@ -4,3 +4,9 @@
 [submodule "contracts"]
 	path = contracts
 	url = https://github.com/dpiassi/contracts-chainlink-hackathon-spring-2023.git
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/JoaoCarlosRosaJunior/ship-track-IoT
+[submodule "server"]
+	path = server
+	url = https://github.com/JoaoCarlosRosaJunior/ship-track-worker
