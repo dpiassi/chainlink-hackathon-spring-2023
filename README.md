@@ -1,6 +1,12 @@
 # Shipchain • Send and track deliveries all around the world!
 > Empower decentralized sharing economy organizations by automating the shipping process of packages in the real world. We use smart contracts and IoT devices to ensure reliability and safety.
 
+This repository contains 4 submodules:
+1. `arduino` aka _IoT layer_
+2. `backoffice` aka _UI layer_
+3. `contracts` aka _Smart Contract layer_
+4. `server` aka _Back-end layer_
+
 ## Inspiration
 
 We genuinely believe that smart contracts can empower actual sharing economy societies to rise and flourish. Everything that happened recently in the Web2 scenario regarding sharing economy came with centralization. New big techs, such as Uber and AirBnB, began as startups a decade ago and are now worth more than seventy billion dollars each. They charge fees over drivers and hosts services, taking up a part of what is paid by their riders and guests. Even though these companies started providing new sources of revenue for many different people and families, allowing them to change their lives, nowadays social and economic issues on these platforms are more common and doubts arises if their business model is profitable. To be honest, what’s the point of having a centralized organization charging fees on services that are decentralized by nature and could be more secure and reliable if they embrace smart contracts instead of the current solutions? Wouldn’t it be better for both drivers and riders, hosts and guests to just connect themselves directly, skipping fees and counting on the safety of blockchains? Wouldn’t these stakeholders reach a greater quality of life and income this way?
