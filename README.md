@@ -115,3 +115,8 @@ Lastly, there is the Iot part. It was the first project that this team created t
 - Deep research of the markets we can enter and the public.
 - Complete the IoT device using a NodeMCU ESP8266 that doesn’t need an Arduino and make HTTP request easier.
 - Upgrade the smart contract to allow transferring the combined amount to the person/company who made the delivery, as well as locking the upfront payment as collateral.
+
+## Related links
+
+- [Public submission on DevPost](https://devpost.com/software/ship-chain)
+- [Public pitch deck that summarizes the proposal](https://tome.app/ship-chain/shipchain-or-chainlink-hackathon-spring-2023-cliqrszny1islmt3day33kz9u)
